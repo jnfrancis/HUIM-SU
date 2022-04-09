@@ -1,2 +1,2 @@
 # HUIM-SU
-code for - -An efficient utility-list based high-utility itemset mining algorithm-submitted to APIN April 9, 2022
+This code is for the manuscript titled "An efficient utility-list based high-utility itemset mining algorithm", which is submitted to APIN in April 2022.
